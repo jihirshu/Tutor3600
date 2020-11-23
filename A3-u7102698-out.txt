@@ -1,0 +1,12 @@
+Running testCases/test-1.txt
+200000 1 1 3 7 5 
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-2.txt
+Command terminated by signal 11
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-3.txt
+Command terminated by signal 11
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-4.txt
+Command terminated by signal 11
+TotCPUTime: 0.00 sec +  0.00 sec

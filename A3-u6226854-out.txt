@@ -1,0 +1,12 @@
+Running testCases/test-1.txt
+200000 0 0 0 0 0 
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-2.txt
+198000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+TotCPUTime: 0.01 sec +  0.61 sec
+Running testCases/test-3.txt
+1750000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+TotCPUTime: 0.80 sec +  6.05 sec
+Running testCases/test-4.txt
+2500000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+TotCPUTime: 2.39 sec +  38.73 sec

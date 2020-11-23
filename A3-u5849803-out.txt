@@ -1,0 +1,12 @@
+Running testCases/test-1.txt
+no solution
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-2.txt
+no solution
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-3.txt
+no solution
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-4.txt
+no solution
+TotCPUTime: 0.00 sec +  0.00 sec

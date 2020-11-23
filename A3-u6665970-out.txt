@@ -1,0 +1,20 @@
+Running testCases/test-1.txt
+successful import 
+140000 
+no solution
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-2.txt
+successful import 
+840000 
+no solution
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-3.txt
+successful import 
+1710000 
+no solution
+TotCPUTime: 0.00 sec +  0.01 sec
+Running testCases/test-4.txt
+successful import 
+2430000 
+no solution
+TotCPUTime: 0.00 sec +  0.05 sec

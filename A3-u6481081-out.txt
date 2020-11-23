@@ -1,0 +1,13 @@
+Running testCases/test-1.txt
+200000 0 1 10 7 7 
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-2.txt
+no solution
+TotCPUTime: 0.00 sec +  0.16 sec
+Running testCases/test-3.txt
+double free or corruption (!prev)
+Command terminated by signal 6
+TotCPUTime: 0.00 sec +  0.41 sec
+Running testCases/test-4.txt
+no solution
+TotCPUTime: 0.00 sec +  3.57 sec

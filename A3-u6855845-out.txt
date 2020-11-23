@@ -1,0 +1,16 @@
+Running testCases/test-1.txt
+200000 1 2 3 4 1 
+The time is: 0.518855ms
+TotCPUTime: 0.00 sec +  0.00 sec
+Running testCases/test-2.txt
+900000 1 4 1 10 24 31 21 8 11 36 1 5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+The time is: 20.7699ms
+TotCPUTime: 0.00 sec +  0.02 sec
+Running testCases/test-3.txt
+1750000 1 8 11 13 1 74 17 5 16 7 7 3 31 17 28 2 1 1 1 1 1 1 12 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+The time is: 77.575ms
+TotCPUTime: 0.00 sec +  0.08 sec
+Running testCases/test-4.txt
+2500000 1 50 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 13 2 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+The time is: 406.999ms
+TotCPUTime: 0.00 sec +  0.41 sec
